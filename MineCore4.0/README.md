@@ -42,8 +42,7 @@
 **All these terms apply to all files in this repository**
 
 ---
-<h2 align="center">The author reserves the right to request take down of any content that is found to be in violation of these terms.
-</h2>
+
 - Discord server (https://discord.gg/JC9rT64)
 - join My YouTube (http://x-gamer.ml)
 - MineCore 4.0 (https://www.mediafire.com/file/gdrdsqyqmgl9693/MineCoreV4.0.theme.zip/file)  
