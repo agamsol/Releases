@@ -25,7 +25,7 @@
 - the two default colors will be changed.
 - rainbow thing (secret), thats all i can say.
 ---
-#### Users are forbidden...
+### Users are forbidden...
 1. Change config staff.
 • change the name.
 • change Description.
