@@ -25,3 +25,14 @@
 - the two default colors will be changed.
 - rainbow thing (secret), thats all i can say.
 ---
+#### Users are forbidden...
+1. Change config staff.
+• change the name.
+• change Description.
+• do not switch META info.
+• change the import url's.
+2. as community of my theme you are not allowed change my urls
+• you are not allowed to copy them.
+• you are not allowed to use the edit option in github.
+3. if you will do the staff above 
+#### the theme will be blocked and you will not have access to new updates
