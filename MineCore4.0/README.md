@@ -10,6 +10,7 @@
 ### Contact:
 + Discord: Agam#1111 (415440180753858560)
 + Mail: agamsolomon2004@gmail.com
+
 ---
 ### Change Log
 - User cards got fixed.
@@ -18,12 +19,14 @@
 - fixed error of The background margins.
 - i moved to here (github page).
 - i have added protection systems, you can't see.
+
 ### Soon...
 - i am adding alot of small Extensions.
 - i am thinking about to change the name
 - background will be changed (landscapes), no minecraft.
 - the two default colors will be changed.
 - rainbow thing (secret), thats all i can say.
+
 ---
 ### Users are forbidden...
 1. Change config staff.
@@ -36,3 +39,6 @@
 • you are not allowed to use the edit option in github.
 3. if you will do the staff above 
 #### the theme will be blocked and you will not have access to new updates
+**All these terms apply to all files in this repository**
+
+---
