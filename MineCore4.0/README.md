@@ -42,3 +42,4 @@
 **All these terms apply to all files in this repository**
 
 ---
+Copyright © 2019 - Agam
