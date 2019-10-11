@@ -7,4 +7,5 @@ Want it?
 
 ---
 <h1 align="center">How do i download the theme ?</h1>
-###Download better discord
+<p align="center">Download better discord.</p>
+
