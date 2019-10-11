@@ -23,4 +23,5 @@ Want it?
 - discord settings > themes > press the little box at the top right, done enjoy my theme :) 
 
 ---
-<h1 align="center">Download the latest theme</h1>
+<h1 align="center">Download the latest theme (MineCore 4.0)</h1>
+- [View Page](https://github.com/agamsol/download/tree/master/MineCore4.0)
