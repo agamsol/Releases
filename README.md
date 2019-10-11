@@ -27,3 +27,7 @@ Want it?
 <p align="center">Latest Theme.</p>
 
 - [View Page](https://github.com/agamsol/download/tree/master/MineCore4.0)
+
+---
+Copyright © 2019 - Agam
+
