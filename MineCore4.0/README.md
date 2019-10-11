@@ -43,9 +43,9 @@
 
 ---
 
-- Discord server (https://discord.gg/JC9rT64)
-- join My YouTube (http://x-gamer.ml)
-- MineCore 4.0 (https://www.mediafire.com/file/gdrdsqyqmgl9693/MineCoreV4.0.theme.zip/file)  
+- [Discord server](https://discord.gg/JC9rT64)
+- [join My YouTube](http://x-gamer.ml)
+- [MineCore](https://www.mediafire.com/file/gdrdsqyqmgl9693/MineCoreV4.0.theme.zip/file)
 
 ---
 Copyright © 2019 - Agam
