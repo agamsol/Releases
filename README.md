@@ -11,7 +11,7 @@ Want it?
 
 - [Install BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/download/0.2.82/BetterDiscordWI.exe)
 
-- after you set it up go to discord settings and check that better discord is added 
+- after you set it up go to discord settings and check if better discord is added 
 - go to discord settings 
 - go to Themes [(can't find it?)](https://youtu.be/48Zh3h_SD-o)
 - press open theme folder
