@@ -24,4 +24,6 @@ Want it?
 
 ---
 <h1 align="center">Download the latest theme (MineCore 4.0)</h1>
+<p align="center">Latest Theme.</p>
+
 - [View Page](https://github.com/agamsol/download/tree/master/MineCore4.0)
