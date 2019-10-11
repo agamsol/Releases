@@ -5,3 +5,8 @@
 ![](https://i.imgur.com/IbjntrA.png)
 ![](https://i.imgur.com/Stu70Sn.png)
 ![](https://i.imgur.com/Hhk3LZh.png)
+
+---
+### Contact:
++ Discord: Agam#1111 (415440180753858560)
++ Mail: agamsolomon2004@gmail.com
