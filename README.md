@@ -4,3 +4,6 @@
 ---
 Want it?
 - [View Page](https://github.com/agamsol/download/tree/master/MineCore4.0)
+
+---
+<h1 align="center">How do i download the theme ?</h1>
