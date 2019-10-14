@@ -29,7 +29,7 @@
 
 ---
 ### Users are forbidden...
-1. Change config staff.
+1. Change config stuff.
 - change the name.
 - change Description.
 - do not switch META info.
