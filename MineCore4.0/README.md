@@ -34,7 +34,7 @@
 - change Description.
 - do not switch META info.
 - change the import url's.
-2. as community of my theme you are not allowed change my urls
+2. as community of my theme you are not allowed to change my urls
 - you are not allowed to copy them.
 - you are not allowed to use the edit option in github.
 3. if you will do the staff above 
