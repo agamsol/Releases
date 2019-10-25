@@ -2,9 +2,10 @@
 <p align="center">MineCore 4.0 just released! Check it out.</p>
 
 ---
+
 Want it?
 - [View Page](https://github.com/rauenzi/BetterDiscordApp/releases/download/v1.0.0/BandagedBD_Windows.exe)
-
+Started working on the new theme! 
 ---
 <h1 align="center">How do i download the theme ?</h1>
 <p align="center">Download better discord.</p>
