@@ -2,13 +2,19 @@
 <p align="center">MineCore 4.0 just released! Check it out.</p>
 
 ---
-Supported versions
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+
 | project  | Version | Supported          |
 | -------- | ------- | ------------------ |
 | -------- | 5.1.x   | :white_check_mark: |
 | -------- | 5.0.x   | :x:                |
 | -------- | 4.0     | :white_check_mark: |
 | -------- |   4.0   | :x:                |
+
 ---
 <h1 align="center">How do i download the theme ?</h1>
 <p align="center">Download better discord.</p>
