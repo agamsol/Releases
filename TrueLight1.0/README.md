@@ -16,10 +16,10 @@
 
 ---
 ### Change Log
-- User cards got fixed.
-- the two default colors was changed.
-- backGround changed (https://i.imgur.com/QLKBdET.jpg).
-- fixed error of The background margins.
+- New realistic background.
+- New theme name just changed!
+- finally there is no user box's 
+- Theme file is now 1KB
 - i moved to here (github page).
 - i have added protection systems, you can't see.
 
