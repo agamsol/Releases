@@ -2,9 +2,12 @@
 <p align="center">a new discord theme just released!.</p>
 
 ![](https://i.imgur.com/hVs2RcX.png)
-![]()
-![]()
-![]()
+![](https://imgur.com/MGlk0d9.png)
+![](https://imgur.com/25scWpZ.png)
+![](https://imgur.com/IH71S7e.png)
+![](https://imgur.com/Q4T8dBK.png)
+![](https://imgur.com/DHsFiyJ.png)
+![](https://imgur.com/ElftN9L.png)
 
 ---
 ### Contact:
