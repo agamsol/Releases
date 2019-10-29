@@ -2,15 +2,18 @@
 <p align="center">MineCore 4.0 just released! Check it out.</p>
 
 ---
-
-Want it?
-- [View Page](https://github.com/rauenzi/BetterDiscordApp/releases/download/v1.0.0/BandagedBD_Windows.exe)
-Started working on the new theme! 
+Supported versions
+| project  | Version | Supported          |
+| -------- | ------- | ------------------ |
+| -------- | 5.1.x   | :white_check_mark: |
+| -------- | 5.0.x   | :x:                |
+| -------- | 4.0     | :white_check_mark: |
+| -------- |   4.0   | :x:                |
 ---
 <h1 align="center">How do i download the theme ?</h1>
 <p align="center">Download better discord.</p>
 
-- [Install BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/download/0.2.82/BetterDiscordWI.exe)
+- [Install BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/download/v1.0.0/BandagedBD_Windows.exe)
 
 - after you set it up go to discord settings and check if better discord is added 
 - go to discord settings 
