@@ -18,16 +18,16 @@
 ### Change Log
 - New realistic background.
 - New theme name just changed!
-- finally there is no user box's 
-- Theme file is now 1KB
-- i moved to here (github page).
-- i have added protection systems, you can't see.
+- finally there is no user box's. 
+- Theme file is now 1KB.
+- i add the Extensions file for you, adds a lot of stuff and.
+- a good protictions systems, allows me to control the theme.
+- server name and more titles are now rainbow (switching colors).
 
 ### Soon...
-- i am adding alot of small Extensions.
-- i am thinking about to change the name
-- background will be changed (landscapes), no minecraft.
-- the two default colors will be changed.
+- True light (minecraft) is comming soon...
+- True light (anime) is comming soon...
+- True light (landscapes) is comming soon...
 - rainbow thing (secret), thats all i can say.
 
 ---
