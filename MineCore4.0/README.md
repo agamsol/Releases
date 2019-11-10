@@ -45,7 +45,7 @@
 ### download
 - [Discord server](https://discord.gg/JC9rT64)
 - [Join My YouTube](http://x-gamer.ml)
-- [MineCore 4.0](https://www.mediafire.com/file/gdrdsqyqmgl9693/MineCoreV4.0.theme.zip/file)
+- [MineCore 4.0](https://download946.mediafire.com/8fot4um22dag/gdrdsqyqmgl9693/MineCoreV4.0.theme.zip)
 
 ---
 Copyright © 2019 - Agam
