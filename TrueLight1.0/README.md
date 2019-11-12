@@ -62,3 +62,7 @@ Copyright © 2019 - Agam
 # [![Paypal][paypal-badge]][paypal-link]
 [paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
 [paypal-link]: paypal.me/agamsolomon0011
+
+# [![download][download-badge]][dowload-link]
+[download-badge]: https://www.seekpng.com/png/full/60-604953_download-now-button-download-cv.png
+[download-link]: http://download2265.mediafire.com/1k3fxoy53ztg/26d9fr4xbh0bbof/TrueLightV1.0.theme.css
