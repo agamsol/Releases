@@ -44,17 +44,8 @@
 **All these terms apply to all files in this repository**
 
 ---
-### download
-- [Discord server](https://discord.gg/JC9rT64)
-- [Join My YouTube](http://x-gamer.ml)
-- [Download NOW!](http://download2265.mediafire.com/1k3fxoy53ztg/26d9fr4xbh0bbof/TrueLightV1.0.theme.css)
 
----
-Copyright © 2019 - Agam
-
----
 # [![discord][discord-badge]][discord-link]
-
 
 [discord-badge]: https://i.imgur.com/SdjZQZ6.png
 [discord-link]: https://discord.gg/JC9rT64
@@ -66,3 +57,8 @@ Copyright © 2019 - Agam
 # [![download][download-badge]][download-link]
 [download-badge]: https://www.seekpng.com/png/full/60-604953_download-now-button-download-cv.png
 [download-link]: http://download2265.mediafire.com/1k3fxoy53ztg/26d9fr4xbh0bbof/TrueLightV1.0.theme.css
+
+---
+Copyright © 2019 - Agam
+
+---
