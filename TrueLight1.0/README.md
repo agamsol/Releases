@@ -54,12 +54,12 @@
 Copyright © 2019 - Agam
 
 ---
-# [![discord][discord-badge]][discord-link] [![Paypal][paypal-badge]][paypal-link]
+# [![discord][discord-badge]][discord-link]
 
 
 [discord-badge]: https://i.imgur.com/SdjZQZ6.png
 [discord-link]: https://discord.gg/JC9rT64
 
-
+# [![Paypal][paypal-badge]][paypal-link]
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
 [paypal-link]: paypal.me/agamsolomon0011
