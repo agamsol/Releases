@@ -30,10 +30,10 @@ currently being supported with security updates.
 - discord settings > themes > press the little box at the top right, done enjoy my theme :) 
 
 ---
-<h1 align="center">Download the latest theme (MineCore 4.0)</h1>
+<h1 align="center">Download the latest theme (True Light 1.0 (Beta)</h1>
 <p align="center">Latest Theme.</p>
 
-- [View Page](https://github.com/agamsol/download/tree/master/MineCore4.0)
+- [View Page](https://github.com/agamsol/download/tree/master/TrueLight1.0)
 
 ---
 Copyright © 2019 - Agam
