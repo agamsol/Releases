@@ -54,7 +54,8 @@
 Copyright © 2019 - Agam
 
 ---
-# Discord [![Paypal][discord-badge]][discord-link]
+# Discord [![discord][discord-badge]][discord-link]
+
 
 [discord-badge]: https://i.imgur.com/SdjZQZ6.png
 [discord-link]: https://discord.gg/JC9rT64
