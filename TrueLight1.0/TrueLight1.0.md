@@ -19,7 +19,7 @@
 - New theme name just changed!
 - finally there is no user box's. 
 - Theme file is now 1KB.
-- i add the Extensions file for you, adds a lot of stuff and.
+- i add the Extensions file for you, adds a lot of cool stuff.
 - a good protictions systems, allows me to control the theme.
 - server name and more titles are now rainbow (switching colors).
 
