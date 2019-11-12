@@ -44,15 +44,15 @@
 **All these terms apply to all files in this repository**
 
 ---
+# [![Paypal][paypal-badge]][paypal-link]
+
+[paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
+[paypal-link]: paypal.me/agamsolomon0011
 
 # [![discord][discord-badge]][discord-link]
 
 [discord-badge]: https://i.imgur.com/SdjZQZ6.png
 [discord-link]: https://discord.gg/JC9rT64
-
-# [![Paypal][paypal-badge]][paypal-link]
-[paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
-[paypal-link]: paypal.me/agamsolomon0011
 
 # [![download][download-badge]][download-link]
 [download-badge]: https://www.seekpng.com/png/full/60-604953_download-now-button-download-cv.png
