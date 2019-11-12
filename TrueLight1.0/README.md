@@ -28,7 +28,6 @@
 - True light (minecraft) is comming soon...
 - True light (anime) is comming soon...
 - True light (landscapes) is comming soon...
-- rainbow thing (secret), thats all i can say.
 - i am trying to solve a but make a metions of the others as black. will be fixed in the next update.
 
 ---
@@ -49,7 +48,7 @@
 ### download
 - [Discord server](https://discord.gg/JC9rT64)
 - [Join My YouTube](http://x-gamer.ml)
-- [download soon](http://google.com/soon)
+- [Download NOW!](http://download2265.mediafire.com/1k3fxoy53ztg/26d9fr4xbh0bbof/TrueLightV1.0.theme.css)
 
 ---
 Copyright © 2019 - Agam
