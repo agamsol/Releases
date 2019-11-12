@@ -54,7 +54,7 @@
 Copyright © 2019 - Agam
 
 ---
-[![Paypal][paypal-badge]][paypal-link]
+[![Paypal][discord-badge]][discord-link]
 [discord-badge]: https://i.imgur.com/NBok9xQ.jpg
 [discord-link]: https://paypal.me/ZackRauen
 
