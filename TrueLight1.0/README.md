@@ -1,7 +1,6 @@
 <h1 align="center">True Light 1.0 (beta)</h1>
 <p align="center">a new discord theme just released!.</p>
 
-![](https://i.imgur.com/hVs2RcX.png)
 ![](https://imgur.com/MGlk0d9.png)
 ![](https://imgur.com/25scWpZ.png)
 ![](https://imgur.com/IH71S7e.png)
@@ -61,5 +60,5 @@ Copyright © 2019 - Agam
 [discord-link]: https://discord.gg/JC9rT64
 
 # [![Paypal][paypal-badge]][paypal-link]
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
+[paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
 [paypal-link]: paypal.me/agamsolomon0011
