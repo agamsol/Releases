@@ -56,7 +56,7 @@
 
 # [![download][download-badge]][download-link]
 [download-badge]: https://www.seekpng.com/png/full/60-604953_download-now-button-download-cv.png
-[download-link]: http://download2265.mediafire.com/1k3fxoy53ztg/26d9fr4xbh0bbof/TrueLightV1.0.theme.css
+[download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 
 ---
 Copyright © 2019 - Agam
