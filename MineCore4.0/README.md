@@ -45,7 +45,7 @@
 ### download
 - [Discord server](https://discord.gg/JC9rT64)
 - [Join My YouTube](http://x-gamer.ml)
-- [MineCore 4.0 Working now]([Install Update](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)
+- [MineCore 4.0 Working now Install Update](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)
 
 ---
 Copyright © 2019 - Agam
