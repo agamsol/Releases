@@ -8,33 +8,11 @@ Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
 
-|  project    | Version | Supported          |
-| ----------- | ------- | ------------------ |
-| MineCore    |  3.7    | :white_check_mark: |
-| MineCore    |  4.0    | :white_check_mark: |
-| True Light  |  1.0B   | :white_check_mark: |
-
----
-<h1 align="center">How do i download the theme ?</h1>
-<p align="center">Download better discord.</p>
-
-- [Install BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/download/v1.0.0/BandagedBD_Windows.exe)
-- after you set it up go to discord settings and check if better discord is added 
-- go to discord settings 
-- go to Themes [(can't find it?)](https://youtu.be/48Zh3h_SD-o)
-- press open theme folder
-- now all you have to do its drag & drop my theme into the theme folder
-### the theme is inside the zip file dont drag and drop the .zip (it will not work)
-- after you droped it it says you need the password, contact me and i will give it to you so you can drag and drop
-- when you droped the theme you've done.
-- just trun it on by going to
-- discord settings > themes > press the little box at the top right, done enjoy my theme :) 
-
----
-<h1 align="center">Download the latest theme (True Light 1.0 (Beta)</h1>
-<p align="center">Latest Theme.</p>
-
-- [View Page](https://github.com/agamsol/download/tree/master/TrueLight1.0)
+|  project    | Version | Supported          | Download |
+| ----------- | ------- | ------------------ | -------- |
+| MineCore    |  3.7    | :white_check_mark: |[Install Update](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)|
+| MineCore    |  4.0    | :white_check_mark: ||[Install](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)|
+| True Light  |  1.0B   | :white_check_mark: |[Install](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM)|
 
 ---
 Copyright © 2019 - Agam
