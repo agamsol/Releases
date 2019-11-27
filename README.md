@@ -15,7 +15,8 @@ currently being supported with security updates.
 | True Light  |  1.0B   | :white_check_mark: |[Install](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM)|
 
 ---
-<a href="https://github.com/agamsol/Releases/blob/master/HowToDowload.md"target="_blank">Go</a>
+
+<a href="https://github.com/agamsol/Releases/blob/master/HowToDowload.md" target="_blank">Go</a>
 
 Copyright © 2019 - Agam
 
