@@ -1,7 +1,7 @@
 <h1 align="center">How do i download the theme ?</h1>
 <p align="center">Download better discord.</p>
 
-![](https://cdn.discordapp.com/attachments/633683107761094677/648623195527839745/video0.mp4)
+![](https://im4.ezgif.com/tmp/ezgif-4-bbce5ae6b548.gif)
 
 - [Install BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/download/v1.0.0/BandagedBD_Windows.exe)
 - after you set it up go to discord settings and check if better discord is added 
