@@ -41,7 +41,8 @@ currently being supported with security updates.
 | ----------- | ------- | ---------- |
 | Mine Core (Beta) | 3.7 | #348 |
 | Mine Core | 4.0 | #351 |
-| TrueLight repository  |  1.0B   | #725 |
+| TrueLight repository  ||| #725 |
+| TrueLight Normal | 1.0 | #728 | 
 
 ## Check if the theme supported 
 
