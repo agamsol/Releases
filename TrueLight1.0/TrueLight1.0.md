@@ -45,7 +45,6 @@
 
 ---
 # [![Paypal][paypal-badge]][paypal-link]
-
 [paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
 [paypal-link]: paypal.me/agamsolomon0011
 
