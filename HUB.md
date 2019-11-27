@@ -10,6 +10,7 @@ currently being supported with security updates.
 
 |  project    | Version | Supported          | Download |
 | ----------- | ------- | ------------------ | -------- |
+| MineCore    |  2.0    | :white_check_mark: |[Download](https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY)|
 | MineCore    |  3.7    | :white_check_mark: |[Download](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)|
 | MineCore    |  4.0    | :white_check_mark: |[Download](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)|
 | True Light  |  1.0B   | :white_check_mark: |[Download](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM)|
@@ -34,11 +35,13 @@ currently being supported with security updates.
 
 ## last Update
 -  27.11.2019 | [Mine Core 3.7 is now back!](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)
+-  27.11.2019 | [Mine Core 2.0 is now back!](https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY)
 
 ---
 ## Themes ID 
 |    Theme    | Version   | ID   |
 | ----------- | ------- | ---------- |
+| Mine Core (Beta) | 2.0 | #253 |
 | Mine Core (Beta) | 3.7 | #348 |
 | Mine Core | 4.0 | #351 |
 | TrueLight repository  || #725 |
@@ -48,8 +51,9 @@ currently being supported with security updates.
 
 |  project    | Version | Supported          |
 | ----------- | ------- | ------------------ |
+| MineCore    |  2.0B   | :white_check_mark: |
+| MineCore    |  3.7B   | :white_check_mark: |
 | MineCore    |  4.0    | :white_check_mark: |
-| MineCore    |  3.7    | :white_check_mark: |
 | True Light  |  1.0B   | :white_check_mark: |
 
 Copyright © 2019 - Agam
