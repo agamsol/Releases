@@ -7,10 +7,10 @@
 - go to Themes [(can't find it?)](https://youtu.be/48Zh3h_SD-o)
 - press open theme folder
 - now all you have to do its drag & drop my theme into the theme folder
-### the theme is inside the zip file dont drag and drop the .zip (it will not work)
-- after you droped it it says you need the password, contact me and i will give it to you so you can drag and drop
+### drag and drop the .css file into discord themes folder
 - when you droped the theme you've done.
 - just trun it on by going to
 - discord settings > themes > press the little box at the top right, done enjoy my theme :) 
 
+- tutorial Soon... !
 ---
