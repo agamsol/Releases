@@ -10,7 +10,7 @@ currently being supported with security updates.
 
 |  project    | Version | Supported          |
 | ----------- | ------- | ------------------ |
-| MineCore    |  4.0    | :x:                |
+| MineCore    |  4.0    | :white_check_mark: |
 | True Light  |  1.0B   | :white_check_mark: |
 
 ---
