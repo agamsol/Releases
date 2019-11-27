@@ -1,5 +1,5 @@
 <h1 align="center">Select the theme you want to download</h1>
-<p align="center">MineCore 4.0 just released! Check it out.</p>
+<p align="center">TrueLight 1.0 just released! Check it out.</p>
 
 ---
 ## Supported Versions
