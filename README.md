@@ -16,7 +16,8 @@ currently being supported with security updates.
 
 ---
 
-<a href="https://github.com/agamsol/Releases/blob/master/HowToDowload.md" target="_blank">Go</a>
+<a href="https://github.com/agamsol/Releases/blob/master/README.md" target="_blank">http://example.com</a>
+
 
 Copyright © 2019 - Agam
 
