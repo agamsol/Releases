@@ -44,6 +44,8 @@
 **All these terms apply to all files in this repository**
 
 ---
+### Info & Download
+
 # [![Paypal][paypal-badge]][paypal-link] [![discord][discord-badge]][discord-link] [![download][download-badge]][download-link]
 [paypal-badge]: https://i.imgur.com/5t3KoYl.png
 [paypal-link]: https://www.paypal.me/agamsolomon0011
