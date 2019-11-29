@@ -48,9 +48,9 @@
 [paypal-badge]: https://i.imgur.com/5t3KoYl.png
 [paypal-link]: paypal.me/agamsolomon0011
 [discord-badge]: https://i.imgur.com/YoAYtqc.png
-[discord-link]: https://discord.gg/JC9rT64
+[discord-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 [download-badge]: https://i.imgur.com/Anw6ncb.png
-[download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
+[download-link]: https://discord.gg/JC9rT64
 
 ---
 Copyright © 2019 - Agam
