@@ -1,7 +1,7 @@
 <h1 align="center">True Light 1.0 (beta)</h1>
 <p align="center">a new discord theme just released!.</p>
 
-[img]https://i.imgur.com/veHAaRu.gif[/img]
+[url=https://imgur.com/veHAaRu]http://i.imgur.com/veHAaRu.gifv[/url]
 
 ---
 ### Contact:
