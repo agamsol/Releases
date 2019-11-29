@@ -44,14 +44,11 @@
 **All these terms apply to all files in this repository**
 
 ---
-# [![Paypal][paypal-badge]][paypal-link] # [![discord][discord-badge]][discord-link]
+# [![Paypal][paypal-badge]][paypal-link] [![discord][discord-badge]][discord-link] [![download][download-badge]][download-link]
 [paypal-badge]: https://i.imgur.com/5t3KoYl.png
 [paypal-link]: paypal.me/agamsolomon0011
-
 [discord-badge]: https://i.imgur.com/YoAYtqc.png
 [discord-link]: https://discord.gg/JC9rT64
-
-# [![download][download-badge]][download-link]
 [download-badge]: https://i.imgur.com/Anw6ncb.png
 [download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 
