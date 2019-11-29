@@ -44,11 +44,9 @@
 **All these terms apply to all files in this repository**
 
 ---
-# [![Paypal][paypal-badge]][paypal-link]
-[paypal-badge]: https://mightywriters.org/wp-content/uploads/paypal-donate-button.png
+# [![Paypal][paypal-badge]][paypal-link] # [![discord][discord-badge]][discord-link]
+[paypal-badge]: https://i.imgur.com/5t3KoYl.png
 [paypal-link]: paypal.me/agamsolomon0011
-
-# [![discord][discord-badge]][discord-link]
 
 [discord-badge]: https://i.imgur.com/YoAYtqc.png
 [discord-link]: https://discord.gg/JC9rT64
