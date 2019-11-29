@@ -50,7 +50,7 @@
 
 # [![discord][discord-badge]][discord-link]
 
-[discord-badge]: https://i.imgur.com/SdjZQZ6.png
+[discord-badge]: https://i.imgur.com/GKvAthH.png
 [discord-link]: https://discord.gg/JC9rT64
 
 # [![download][download-badge]][download-link]
