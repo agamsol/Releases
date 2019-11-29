@@ -2,6 +2,10 @@
 <p align="center">a new discord theme just released!.</p>
 
 ![](https://i.imgur.com/veHAaRu.gif)
+https://i.imgur.com/veHAaRu.gif
+
+![](https://i.imgur.com/veHAaRu.gif)
+
 
 ---
 ### Contact:
