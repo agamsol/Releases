@@ -1,10 +1,8 @@
 <h1 align="center">True Light 1.0 (beta)</h1>
 <p align="center">a new discord theme just released!.</p>
 
-![](https://i.imgur.com/veHAaRu.gif)
-https://i.imgur.com/veHAaRu.gif
+![](https://media.giphy.com/media/fUHCx3VhFY3nOgSpaE/giphy.gif)
 
-![](https://i.imgur.com/veHAaRu.gif)
 
 
 ---
