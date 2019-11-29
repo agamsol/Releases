@@ -1,7 +1,7 @@
 <h1 align="center">True Light 1.0 (beta)</h1>
 <p align="center">a new discord theme just released!.</p>
 
-![](https://media.discordapp.net/attachments/579691412531183620/649976428292603904/Hnet-image_1.gif?format=png&width=400&height=224)
+![](https://cdn.discordapp.com/attachments/579691412531183620/649977740484673558/2019-11-29_14-35-34.mp4)
 
 ---
 ### Contact:
