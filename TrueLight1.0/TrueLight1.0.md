@@ -54,7 +54,7 @@
 [discord-link]: https://discord.gg/JC9rT64
 
 # [![download][download-badge]][download-link]
-[download-badge]: https://image.flaticon.com/icons/svg/0/532.svg
+[download-badge]: https://i.imgur.com/SdSw6wa.png
 [download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 
 ---
