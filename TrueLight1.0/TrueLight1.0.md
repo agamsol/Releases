@@ -50,11 +50,11 @@
 
 # [![discord][discord-badge]][discord-link]
 
-[discord-badge]: https://i.imgur.com/GKvAthH.png
+[discord-badge]: https://i.imgur.com/YoAYtqc.png
 [discord-link]: https://discord.gg/JC9rT64
 
 # [![download][download-badge]][download-link]
-[download-badge]: https://i.imgur.com/SdSw6wa.png
+[download-badge]: https://i.imgur.com/Anw6ncb.png
 [download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 
 ---
