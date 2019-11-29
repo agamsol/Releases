@@ -54,7 +54,7 @@
 [discord-link]: https://discord.gg/JC9rT64
 
 # [![download][download-badge]][download-link]
-[download-badge]: https://www.pngix.com/pngfile/big/130-1302556_download-download-now-download-icon-download-button-app.png
+[download-badge]: https://image.flaticon.com/icons/svg/0/532.svg
 [download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM
 
 ---
