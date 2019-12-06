@@ -16,6 +16,7 @@ currently being supported with security updates.
 | MineCore    |  3.7    | :white_check_mark: |[Download](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)|
 | MineCore    |  4.0    | :white_check_mark: |[Download](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)|
 | True Light  |  1.0B   | :white_check_mark: |[Download](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM)|
+| True Light Anime |  1.0   | :white_check_mark: |[Download](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU)|
 
 ---
 ## repository's Information
