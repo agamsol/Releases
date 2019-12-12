@@ -3,10 +3,10 @@
 
 ---
 ### Without HebrewFix
-![](https://i.imgur.com/2Rs0tgr.png)
+![](https://i.imgur.com/Tn96cU2.png)
 
 ### With HebrewFix
-![](https://i.imgur.com/VEsf2cn.png)
+![](https://i.imgur.com/VB5qbCO.png)
 
 ---
 What does This theme do ?
