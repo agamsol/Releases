@@ -75,7 +75,7 @@ currently being supported with security updates.
 | True Light  |  1.0B   | :white_check_mark: |
 | True Light Anime  |  1.0   | :white_check_mark: |
 | True Light Anime  | :x:  | :x: |
-| :X: | :x: |
+| HebrewFix | Auto | :white_check_mark: |
 
 Copyright © 2019 - Agam
 
