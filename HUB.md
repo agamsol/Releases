@@ -39,7 +39,7 @@ currently being supported with security updates.
 | Mine Core | 4.0 | 14.11.2019 | Source is moved to a new loaction |[Install Update](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY) |
 | Mine Core | 3.7 | 27.11.2019 | Theme Has stopped working for some reason |[Install Update](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)
 | Mine Core | 2.0 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY)
-| Mine Core | 3.5 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!8spCyAjZ!X9Cbt32ibAHdiBytxWBWTsLcVWKrkEo0ttWNOTiAwkM) |
+| Mine Core | 3.5 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!6TAHTKLS!S7YFKJzZilFEQ6-HvF84sb9v8-GvZCUG5KKVEkt6Jfk) |
 
 ## last Update
 - 06.12.2019 | [True Light Anime Just released](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU)
@@ -47,6 +47,7 @@ currently being supported with security updates.
 -  27.11.2019 | [Mine Core 2.0 is now back!](https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY)
 -  27.11.2019 | [Mine Core 3.5 is now back!](https://mega.nz/#!6TAHTKLS!S7YFKJzZilFEQ6-HvF84sb9v8-GvZCUG5KKVEkt6Jfk)
 -  27.11.2019 | [Mine Core 1.0 is now back!](https://mega.nz/#!zOhizCTQ!WmbHmmCxlevm2vzz2qZPDAUb0bQKfdSZ9_k1Y3CGWGM)
+- 12.12.2019 | [HebrewFix](https://mega.nz/#!8spCyAjZ!X9Cbt32ibAHdiBytxWBWTsLcVWKrkEo0ttWNOTiAwkM)
 
 ---
 ## Themes ID 
