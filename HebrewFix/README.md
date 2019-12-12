@@ -1,4 +1,4 @@
-<h1 align="center">HebrewFix(beta)</h1>
+<h1 align="center">HebrewFix</h1>
 <p align="center">Report any bugs if you find some</p>
 
 ---
