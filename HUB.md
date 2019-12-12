@@ -1,5 +1,5 @@
 <h1 align="center">Select the theme you want to download</h1>
-<p align="center">TrueLight 1.0 just released! Check it out.</p>
+<p align="center">HebrewFix just released! Check it out.</p>
 
 ---
 ## Supported Versions
@@ -16,7 +16,8 @@ currently being supported with security updates.
 | MineCore    |  3.7    | :white_check_mark: |[Download](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)|
 | MineCore    |  4.0    | :white_check_mark: |[Download](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)|
 | True Light  |  1.0B   | :white_check_mark: |[Download](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM)|
-| True Light Anime |  1.0   | :white_check_mark: |[Download](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU)|
+| True Light Anime | 1.0 | :white_check_mark: |[Download](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU)|
+| HebrewFix | auto Updates | :white_check_mark: |[Download](https://mega.nz/#!8spCyAjZ!X9Cbt32ibAHdiBytxWBWTsLcVWKrkEo0ttWNOTiAwkM)|
 
 ---
 ## repository's Information
@@ -27,18 +28,19 @@ currently being supported with security updates.
 | True Light  |    Working     | :white_check_mark: |
 | True Light Anime |    Working     | :white_check_mark: |
 | True Light Minecraft |    not Working     | :x: |
+| HebrewFix |    Working, New     | :white_check_mark: |
 
 ---
 ## Updates and versions
 | Theme |  version  |  Date   | Update Reason|  Download |
 | ----------- | ------- | ------- | ------- | ---------- |
+| HebrewFix | auto | 12.12.2019 | a bug fix of what discord did |[Install Update](https://mega.nz/#!8spCyAjZ!X9Cbt32ibAHdiBytxWBWTsLcVWKrkEo0ttWNOTiAwkM)
 | True Light | 1.0 | 23.11.2019 | Source is moved to a new loaction |[Install Update](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM) |
 | Mine Core | 4.0 | 14.11.2019 | Source is moved to a new loaction |[Install Update](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY) |
 | Mine Core | 3.7 | 27.11.2019 | Theme Has stopped working for some reason |[Install Update](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)
 | Mine Core | 2.0 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY)
-| Mine Core | 1.0 | 27.11.2019 | Theme was with lots of bugs and i fixed it! |[Install Update](https://mega.nz/#!6TAHTKLS!S7YFKJzZilFEQ6-HvF84sb9v8-GvZCUG5KKVEkt6Jfk)| Mine Core | 3.5 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!zOhizCTQ!WmbHmmCxlevm2vzz2qZPDAUb0bQKfdSZ9_k1Y3CGWGM)
-| True Light Anime | 1.0 | 06.12.2019 | This theme just Released! |[Install Update](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU) |
-
+| Mine Core | 3.5 | 27.11.2019 | Theme was not on the github page |[Install Update](https://mega.nz/#!8spCyAjZ!X9Cbt32ibAHdiBytxWBWTsLcVWKrkEo0ttWNOTiAwkM)
+:white_check_mark:
 
 ## last Update
 - 06.12.2019 | [True Light Anime Just released](https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU)
@@ -59,6 +61,7 @@ currently being supported with security updates.
 | TrueLight repository  |Genegal| #725 |
 | TrueLight Normal | 1.0 | #728 | 
 | TrueLight Anime | 1.0 | #734 | 
+| HebrewFix | auto | #542 | 
 
 ## Check if the theme supported 
 
@@ -71,6 +74,8 @@ currently being supported with security updates.
 | MineCore    |  4.0    | :white_check_mark: |
 | True Light  |  1.0B   | :white_check_mark: |
 | True Light Anime  |  1.0   | :white_check_mark: |
+| True Light Anime  | :x:  | :x: |
+| :X: | :x: |
 
 Copyright © 2019 - Agam
 
