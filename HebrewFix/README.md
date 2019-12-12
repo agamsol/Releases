@@ -11,13 +11,16 @@
 ---
 What does This theme do ?
 
-- Fix text side.
-- fix edited message side.
-- fix the side of the text when you type. 
++ Fix text side.
++ fix edited message side.
++ fix the side of the text when you type. 
 
+### report Bugs if you have some
+Contact: 
++ Discord: Agam#1111 (415440180753858560)
++ Mail: agamsolomon2004@gmail.com
 
-
-
+---
 
 ### Info & Download
 
