@@ -1,5 +1,5 @@
 <h1 align="center">HebrewFix</h1>
-<p align="center">Report any bugs if you find some</p>
+<p align="center">the most convenient way</p>
 
 ---
 ### Without HebrewFix
@@ -17,7 +17,7 @@ What does This theme do ?
 
 ### report Bugs if you have some
 Contact: 
-+ Discord: Agam#1111 (415440180753858560)
++ Discord: Agam#1356 (415440180753858560)
 + Mail: agamsolomon2004@gmail.com
 
 ---
