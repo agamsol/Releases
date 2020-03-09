@@ -3,6 +3,8 @@
 
 ![](https://media.discordapp.net/attachments/579691412531183620/649982438545686539/veHAaRu.gif)
 
+![gif](https://cdn.discordapp.com/attachments/546244449873821705/686475161666453512/gif.gif)
+
 ---
 ### Contact:
 + Discord: Agam#1111 (415440180753858560)
